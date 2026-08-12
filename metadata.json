@@ -1,0 +1,6 @@
+{
+  "name": "GitHub 連動測試頁面",
+  "description": "提供簡單精美的單頁式網站，具備 GitHub 連動教學、狀態檢查清單、動態測試與提交日誌紀錄機能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
